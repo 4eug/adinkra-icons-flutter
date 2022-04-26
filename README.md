@@ -4,7 +4,7 @@ Adinkra Icons is a set of visual symbols for designers and developers. These sym
 
 ## Icons
 
-<img src ="assets/image/icons.png">
+<img src ="https://drive.google.com/file/d/1Kokn6HZ2utC2JhtbN3mFqLjYZyiN8hd-/view?usp=sharing">
 
 ## Install
 
