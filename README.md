@@ -10,3 +10,5 @@ Add `adinkra_icons` package into your project's `pubspec.yaml`.
 dependencies:
   adinkra_icons: # Latest version
 ```
+
+You can add by typing `flutter pub add adinkra_icons` to quickly add latest version from your CLI.
