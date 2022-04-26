@@ -23,7 +23,7 @@ class AdinkraIcon extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final path = p.join(
-      'packages/adinkra_icons/assets/${solid ? 'solid' : 'outline'}/',
+      'packages/adinkra_icons/assets/',
       icon.name,
     );
     return SvgPicture.asset(
