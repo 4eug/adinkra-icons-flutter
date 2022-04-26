@@ -1,3 +1,3 @@
-## 0.0.1
+## 0.1.0 2022/04/26
 
-* TODO: Describe initial release.
+- Initial release.
