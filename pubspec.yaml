@@ -21,5 +21,3 @@ dev_dependencies:
 flutter:
   assets:
     - assets/
-    - assets/outline/
-    - assets/solid/
