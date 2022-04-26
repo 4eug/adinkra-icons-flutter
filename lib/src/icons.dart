@@ -136,4 +136,110 @@ class AdinkraIcons {
 
   //Mframadan icon
   static const mframadan = AdinkraIcons._('mframadan');
+
+  //Mmere-Dane icon
+  static const mmereDane = AdinkraIcons._('mmere-dane');
+
+  //Mmusuyidee icon
+  static const mmusuyidee = AdinkraIcons._('mmusuyidee');
+
+  //Mpatapo icon
+  static const mpatapo = AdinkraIcons._('mpatapo');
+
+  //Mpuannum icon
+  static const mpuannum = AdinkraIcons._('mpuannum');
+
+  //Nea-Onnim icon
+  static const neaOnnim = AdinkraIcons._('nea-onnim');
+
+  //Nea-Ope-Se-Obedi-Hene icon
+  static const neaOpeSeObediHene = AdinkraIcons._('nea-ope-se-obedi-hene');
+
+  //Nkonsonkonson icon
+  static const nkonsonkonson = AdinkraIcons._('nkonsonkonson');
+
+  //Nkyimu icon
+  static const nkyimu = AdinkraIcons._('nkyimu');
+
+  //Nkyinkyim icon
+  static const nkyinkyim = AdinkraIcons._('nkyinkyim');
+
+  //Nsaa icon
+  static const nsaa = AdinkraIcons._('nsaa');
+
+  //Nsoromma icon
+  static const nsoromma = AdinkraIcons._('nsoromma');
+
+  //Nteasee icon
+  static const nteasee = AdinkraIcons._('nteasee');
+
+  //Nyame-Biribi-Wo-Soro icon
+  static const nyameBiribiWoSoro = AdinkraIcons._('nyame-biribi-wo-soro');
+
+  //Nyame-Dua icon
+  static const nyameDua = AdinkraIcons._('nyame-dua');
+
+  //Nyame-Nnwu-Na-Mawu icon
+  static const nyameNnwuNaMawu = AdinkraIcons._('nyame-nnwu-na-mawu');
+
+  //Nyame-Nti icon
+  static const nyameNti = AdinkraIcons._('nyame-nti');
+
+  //Nyame-Ye-Ohene icon
+  static const nyameYeOhene = AdinkraIcons._('nyame-ye-ohene');
+
+  //Nyansapo icon
+  static const nyansapo = AdinkraIcons._('nyansapo');
+
+  //Odo-Nyera-Fie-Kwan icon
+  static const odoNyeraFieKwan = AdinkraIcons._('odo-nyera-fie-kwan');
+
+  //Okodee-Mmowere icon
+  static const okodeeMmowere = AdinkraIcons._('okodee-mmowere');
+
+  //Okuafo-Pa icon
+  static const okuafoPa = AdinkraIcons._('okuafo-pa');
+
+  //Onyankopon-Adom-Nti-Biribiara-Beye-Yie icon
+  static const onyankoponAdomNtiBiribiaraBeyeYie = AdinkraIcons._('onyankopon-adom-nti-biribiara-beye-yie');
+
+  //Osram-Ne-Nsoromma icon
+  static const osramNeNsoromma = AdinkraIcons._('osram-ne-nsoromma');
+
+  //Owo-Foro-Adobe icon
+  static const owoForoAdobe = AdinkraIcons._('owo-foro-adobe');
+
+  //Owuo-Atwedee icon
+  static const owuoAtwedee = AdinkraIcons._('owuo-atwedee');
+
+  //Pempamsie icon
+  static const pempamsie = AdinkraIcons._('pempamsie');
+
+  //Sankofa-One icon
+  static const sankofaOne = AdinkraIcons._('sankofa-one');
+
+  //Sankofa-Two icon
+  static const sankofaTwo = AdinkraIcons._('sankofa-two');
+
+  //Sepow icon
+  static const sepow = AdinkraIcons._('sepow');
+
+  //Sesa-Wo-Suban icon
+  static const sesaWoSuban = AdinkraIcons._('sesa-wo-suban');
+
+  //Tamfo-Bebre icon
+  static const tamfoBebre = AdinkraIcons._('tamfo-bebre');
+
+  //Uac-Nkanea icon
+  static const uacNkanea = AdinkraIcons._('uac-nkanea');
+
+  //Wawa-Aba icon
+  static const wawaAba = AdinkraIcons._('wawa-aba');
+
+  //Wo-Nsa-Da-Mu icon
+  static const woNsaDaMu = AdinkraIcons._('wo-nsa-da-mu');
+
+  //Woforo-Dua icon
+  static const woforoDua = AdinkraIcons._('woforo-dua');
+
 }
