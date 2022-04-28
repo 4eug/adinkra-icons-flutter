@@ -11,9 +11,10 @@ class ExampleApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
+      debugShowCheckedModeBanner: false,
       title: 'Adinkra Icons',
       theme: ThemeData(
-        primarySwatch: Colors.blue,
+        primarySwatch: Colors.green,
         visualDensity: VisualDensity.adaptivePlatformDensity,
         // ignore: prefer_const_constructors
         iconTheme: IconThemeData(
@@ -44,7 +45,7 @@ class _MyHomePageState extends State<MyHomePage> {
       body: Center(
         child: IconTheme(
           data: const IconThemeData(color: Colors.black),
-          child: Column(
+          child: Row(
             mainAxisAlignment: MainAxisAlignment.center,
             children: const <Widget>[
               AdinkraIcon(AdinkraIcons.aban,),
@@ -53,10 +54,14 @@ class _MyHomePageState extends State<MyHomePage> {
               AdinkraIcon(AdinkraIcons.aya, color: Colors.green,),
               AdinkraIcon(AdinkraIcons.sankofaOne, color: Colors.orange,),
               AdinkraIcon(AdinkraIcons.sankofaTwo, color: Colors.purple,),
+              AdinkraIcon(AdinkraIcons.sepow, color: Colors.brown,),
+              AdinkraIcon(AdinkraIcons.tamfoBebre, color: Colors.pink,),
+              AdinkraIcon(AdinkraIcons.okuafoPa, color: Colors.cyan,),
             ],
           ),
         ),
       ),
+      
     );
   }
 }
