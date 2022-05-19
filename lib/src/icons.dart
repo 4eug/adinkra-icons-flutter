@@ -11,6 +11,9 @@ class AdinkraIcons {
   //Abe-Dua icon
   static const abeDua = AdinkraIcons._('abe-dua');
 
+  //Abusua-Pa icon
+  static const abusuaPa = AdinkraIcons._('abusua-pa');
+
   //Adinkrahene icon
   static const adinkrahene = AdinkraIcons._('adinkrahene');
 
@@ -41,8 +44,20 @@ class AdinkraIcons {
   //Ani-Bere-A-Enso-Gya icon
   static const aniBereAEnsoGya = AdinkraIcons._('ani-bere-a-enso-gya');
 
+  //Anyi-Me-Aye-A icon
+  static const anyiMeAyeA = AdinkraIcons._('anyi-me-aye-a');
+
+  //Asaawa icon
+  static const asaawa = AdinkraIcons._('asaawa');
+
   //Asase-Ye-duru icon
   static const asaseYeDuru = AdinkraIcons._('asase-ye-duru');
+
+  //Asetena Pa icon
+  static const asetenaPa = AdinkraIcons._('asetena-pa');
+
+  //Awurade-Baatanfo icon
+  static const awuradeBaatanfo = AdinkraIcons._('awurade-baatanfo');
 
   //Aya icon
   static const aya = AdinkraIcons._('aya');
@@ -55,6 +70,9 @@ class AdinkraIcons {
 
   //Boa-Me-Na-Me-Mmoa-Wo icon
   static const boaMeNaMeMmoaWo = AdinkraIcons._('boa-me-na-me-mmoa-wo');
+
+  //Boafo-Ye-Na icon
+  static const boafoYeNa = AdinkraIcons._('boafo-ye-na');
 
   //Dame-Dame icon
   static const dameDame = AdinkraIcons._('dame-dame');
@@ -82,6 +100,9 @@ class AdinkraIcons {
 
   //Ese-Ne-Tekrema icon
   static const eseNeTekrema = AdinkraIcons._('ese-ne-tekrema');
+
+  //Esono-Anantam icon
+  static const esonoAnantam = AdinkraIcons._('esono-anantam');
 
   //Fafanto icon
   static const fafanto = AdinkraIcons._('fafanto');
