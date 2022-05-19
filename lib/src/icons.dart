@@ -117,7 +117,11 @@ class AdinkraIcons {
   static const fofo = AdinkraIcons._('fofo');
 
   //Funtunfunefu-Denkyemfunefu icon
-  static const funtunfunefuDenkyemfunefu = AdinkraIcons._('funtunfunefu-denkyemfunefu');
+  static const funtunfunefuDenkyemfunefu =
+      AdinkraIcons._('funtunfunefu-denkyemfunefu');
+
+  //Gye-W'ani icon
+  static const gyeWAni = AdinkraIcons._('gye-w-ani');
 
   //Gye-Nyame icon
   static const gyeNyame = AdinkraIcons._('gye-nyame');
@@ -134,8 +138,12 @@ class AdinkraIcons {
   //Kintinkantan icon
   static const kintinkantan = AdinkraIcons._('kintinkantan');
 
+  //Kokuromotie icon
+  static const kokuromotie = AdinkraIcons._('kokuromotie');
+
   //Kramo-Bone-Amma-Yeanhu-Kramo-Pa icon
-  static const kramoBoneAmmaYeanhuKramoPa = AdinkraIcons._('kramo-bone-amma-yeanhu-kramo-pa');
+  static const kramoBoneAmmaYeanhuKramoPa =
+      AdinkraIcons._('kramo-bone-amma-yeanhu-kramo-pa');
 
   //Kuronti-Ne-Akwamu icon
   static const kurontiNeAkwamu = AdinkraIcons._('kuronti-ne-akwamu');
@@ -152,7 +160,7 @@ class AdinkraIcons {
   //Me-Ware-Wo icon
   static const meWareWo = AdinkraIcons._('me-ware-wo');
 
-  //Menso-Wo-Kenten icon 
+  //Menso-Wo-Kenten icon
   static const mensoWoKenten = AdinkraIcons._('menso-wo-kenten');
 
   //Mframadan icon
@@ -222,7 +230,8 @@ class AdinkraIcons {
   static const okuafoPa = AdinkraIcons._('okuafo-pa');
 
   //Onyankopon-Adom-Nti-Biribiara-Beye-Yie icon
-  static const onyankoponAdomNtiBiribiaraBeyeYie = AdinkraIcons._('onyankopon-adom-nti-biribiara-beye-yie');
+  static const onyankoponAdomNtiBiribiaraBeyeYie =
+      AdinkraIcons._('onyankopon-adom-nti-biribiara-beye-yie');
 
   //Osram-Ne-Nsoromma icon
   static const osramNeNsoromma = AdinkraIcons._('osram-ne-nsoromma');
@@ -262,5 +271,4 @@ class AdinkraIcons {
 
   //Woforo-Dua icon
   static const woforoDua = AdinkraIcons._('woforo-dua');
-
 }
