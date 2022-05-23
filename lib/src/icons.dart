@@ -151,6 +151,9 @@ class AdinkraIcons {
   //Kwatakye-Atiko icon
   static const kwatakyeAtiko = AdinkraIcons._('kwatakye-atiko');
 
+  //Kyemfere icon
+  static const kyemfere = AdinkraIcons._('kyemfere');
+
   //Mako icon
   static const mako = AdinkraIcons._('mako');
 
@@ -159,6 +162,9 @@ class AdinkraIcons {
 
   //Me-Ware-Wo icon
   static const meWareWo = AdinkraIcons._('me-ware-wo');
+
+  //Mekyia Wo icon
+  static const mekyiaWo = AdinkraIcons._('mekyia-wo');
 
   //Menso-Wo-Kenten icon
   static const mensoWoKenten = AdinkraIcons._('menso-wo-kenten');
@@ -172,11 +178,20 @@ class AdinkraIcons {
   //Mmusuyidee icon
   static const mmusuyidee = AdinkraIcons._('mmusuyidee');
 
+  //Mo-No-Yo icon
+  static const moNoYo = AdinkraIcons._('mo-no-yo');
+
   //Mpatapo icon
   static const mpatapo = AdinkraIcons._('mpatapo');
 
   //Mpuannum icon
   static const mpuannum = AdinkraIcons._('mpuannum');
+
+  //Mrammuo icon
+  static const mrammuo = AdinkraIcons._('mrammuo');
+
+  //Nante-Yie icon
+  static const nanteYie = AdinkraIcons._('nante-yie');
 
   //Nea-Onnim icon
   static const neaOnnim = AdinkraIcons._('nea-onnim');
@@ -187,20 +202,38 @@ class AdinkraIcons {
   //Nkonsonkonson icon
   static const nkonsonkonson = AdinkraIcons._('nkonsonkonson');
 
+  //Nkotimsefo-Mpua icon
+  static const nkotimsefo = AdinkraIcons._('nkotimsefo-mpua');
+
+  //Nkrabea icon
+  static const nkrabea = AdinkraIcons._('nkrabea');
+
   //Nkyimu icon
   static const nkyimu = AdinkraIcons._('nkyimu');
 
   //Nkyinkyim icon
   static const nkyinkyim = AdinkraIcons._('nkyinkyim');
 
+  //Nnampo Pa Baanu icon
+  static const nnampoPaBaanu = AdinkraIcons._('nnampo-pa-baanu');
+
+  //Nokore icon
+  static const nokore = AdinkraIcons._('nokore');
+
   //Nsaa icon
   static const nsaa = AdinkraIcons._('nsaa');
+
+  //Nserewa icon
+  static const nserewa = AdinkraIcons._('nserewa');
 
   //Nsoromma icon
   static const nsoromma = AdinkraIcons._('nsoromma');
 
   //Nteasee icon
   static const nteasee = AdinkraIcons._('nteasee');
+
+  //Nya-Gyidie icon
+  static const nyaGyidie = AdinkraIcons._('nya-gyidie');
 
   //Nyame-Biribi-Wo-Soro icon
   static const nyameBiribiWoSoro = AdinkraIcons._('nyame-biribi-wo-soro');
@@ -219,6 +252,9 @@ class AdinkraIcons {
 
   //Nyansapo icon
   static const nyansapo = AdinkraIcons._('nyansapo');
+
+  //Obohemmaa icon
+  static const obohemmaa = AdinkraIcons._('obohemmaa');
 
   //Odo-Nyera-Fie-Kwan icon
   static const odoNyeraFieKwan = AdinkraIcons._('odo-nyera-fie-kwan');
@@ -256,6 +292,15 @@ class AdinkraIcons {
 
   //Sesa-Wo-Suban icon
   static const sesaWoSuban = AdinkraIcons._('sesa-wo-suban');
+
+  //Som Onyankopon icon
+  static const somOnyankopon = AdinkraIcons._('som-onyankopon');
+
+  //Sunsum icon
+  static const sunsum = AdinkraIcons._('sunsum');
+
+  //Tabono icon
+  static const tabono = AdinkraIcons._('tabono');
 
   //Tamfo-Bebre icon
   static const tamfoBebre = AdinkraIcons._('tamfo-bebre');
