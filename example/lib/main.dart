@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:adinkra_icons/adinkra_icons.dart';
 
-
 void main() => runApp(const ExampleApp());
 
 class ExampleApp extends StatelessWidget {
@@ -48,20 +47,53 @@ class _MyHomePageState extends State<MyHomePage> {
           child: Row(
             mainAxisAlignment: MainAxisAlignment.center,
             children: const <Widget>[
-              AdinkraIcon(AdinkraIcons.aban,),
-              AdinkraIcon(AdinkraIcons.adinkrahene, color: Colors.red,),
-              AdinkraIcon(AdinkraIcons.akoben, color: Colors.blue, ),
-              AdinkraIcon(AdinkraIcons.aya, color: Colors.green,),
-              AdinkraIcon(AdinkraIcons.sankofaOne, color: Colors.orange,),
-              AdinkraIcon(AdinkraIcons.sankofaTwo, color: Colors.purple,),
-              AdinkraIcon(AdinkraIcons.sepow, color: Colors.brown,),
-              AdinkraIcon(AdinkraIcons.tamfoBebre, color: Colors.pink,),
-              AdinkraIcon(AdinkraIcons.okuafoPa, color: Colors.cyan,),
+              AdinkraIcon(
+                AdinkraIcons.aban,
+              ),
+              AdinkraIcon(
+                AdinkraIcons.adinkrahene,
+                color: Colors.red,
+              ),
+              AdinkraIcon(
+                AdinkraIcons.akoben,
+                color: Colors.blue,
+              ),
+              AdinkraIcon(
+                AdinkraIcons.aya,
+                color: Colors.green,
+              ),
+              AdinkraIcon(
+                AdinkraIcons.sankofaOne,
+                color: Colors.orange,
+              ),
+              AdinkraIcon(
+                AdinkraIcons.sankofaTwo,
+                color: Colors.purple,
+              ),
+              AdinkraIcon(
+                AdinkraIcons.sepow,
+                color: Colors.brown,
+              ),
+              AdinkraIcon(
+                AdinkraIcons.tamfoBebre,
+                color: Colors.pink,
+              ),
+              AdinkraIcon(
+                AdinkraIcons.okuafoPa,
+                color: Colors.cyan,
+              ),
+              AdinkraIcon(
+                AdinkraIcons.moNoYo,
+                color: Colors.red,
+              ),
+              AdinkraIcon(
+                AdinkraIcons.nanteYie,
+                color: Colors.blue,
+              ),
             ],
           ),
         ),
       ),
-      
     );
   }
 }
